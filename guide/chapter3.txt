@@ -184,3 +184,11 @@ and general.
 if the user is denied access. The contructor of the class takes a source string
 in the language that we specified above. The rules that the parser creates
 should be checked in sequence.
+
+
+Next steps
+----------
+
+[Chapter 4: Parsing an expression](chapter4.html)
+
+
